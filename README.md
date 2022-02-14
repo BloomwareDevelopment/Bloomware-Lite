@@ -1,6 +1,6 @@
 <h1 align="center">Bloomware</h1>
 <div align="center">
-  <img src="https://img.shields.io/github/contributors/TheBreakery/Bloomware" alt="GitHub contributors"/> <img src="https://img.shields.io/github/languages/code-size/TheBreakery/Bloomware" alt="GitHub code size in bytes"/> <img src="https://tokei.rs/b1/github/TheFishDevs/Bloomware" alt="GitHub lines of code"/> <img src="https://img.shields.io/github/last-commit/TheBreakery/Bloomware" alt="GitHub last commit"/> <img src="https://img.shields.io/github/downloads/thebreakery/Bloomware/total?style=flat-square" alt="Total downloads"> <a href="https://www.codefactor.io/repository/github/thebreakery/bloomware"><img src="https://www.codefactor.io/repository/github/thebreakery/bloomware/badge" alt="CodeFactor" /></a>
+  <img src="https://img.shields.io/github/contributors/TheBreakery/Bloomware" alt="GitHub contributors"/> <img src="https://img.shields.io/github/languages/code-size/TheBreakery/Bloomware" alt="GitHub code size in bytes"/> <img src="https://tokei.rs/b1/github/TheBreakery/Bloomware" alt="GitHub lines of code"/> <img src="https://img.shields.io/github/last-commit/TheBreakery/Bloomware" alt="GitHub last commit"/> <img src="https://img.shields.io/github/downloads/thebreakery/Bloomware/total?style=flat-square" alt="Total downloads"> <a href="https://www.codefactor.io/repository/github/thebreakery/bloomware"><img src="https://www.codefactor.io/repository/github/thebreakery/bloomware/badge" alt="CodeFactor" /></a>
 </div>
 
 # 🛠️ Bloomware
