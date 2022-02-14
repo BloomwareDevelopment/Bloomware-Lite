@@ -5,6 +5,7 @@
 
 # 🛠️ Bloomware
 Bloomware is a paid utility mod for Minecraft 1.18+ versions
+
 This is free version, feel free to contribute
 
 We have a Discord server - [Discord](https://discord.gg/D4G7JN5d7m)
