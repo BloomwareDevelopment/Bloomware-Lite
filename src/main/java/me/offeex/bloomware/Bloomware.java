@@ -22,7 +22,7 @@ import me.offeex.bloomware.client.gui.screen.overlay.musicplayer.MusicManager;
 import me.offeex.bloomware.client.module.ModuleManager;
 import me.offeex.bloomware.client.module.modules.client.Font;
 import me.offeex.bloomware.client.setting.SettingManager;
-import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.ModContainer;
 import net.minecraft.client.MinecraftClient;
@@ -32,7 +32,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.IOException;
 
-public class Bloomware implements ClientModInitializer {
+public class Bloomware implements ModInitializer {
     public static final MinecraftClient mc = MinecraftClient.getInstance();
     public static final String NAME = "Bloomware";
     public static String version;
@@ -71,7 +71,7 @@ public class Bloomware implements ClientModInitializer {
     }
 
     @Override
-    public void onInitializeClient() {
+    public void onInitialize() {
         printLog("Bloomware started ratting you!");
 
         System.out.println(
