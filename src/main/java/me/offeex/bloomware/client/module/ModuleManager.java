@@ -5,10 +5,7 @@ import me.offeex.bloomware.Bloomware;
 import me.offeex.bloomware.api.event.events.EventKeyPress;
 import me.offeex.bloomware.client.module.modules.chat.*;
 import me.offeex.bloomware.client.module.modules.client.*;
-import me.offeex.bloomware.client.module.modules.extension.Notifications;
-import me.offeex.bloomware.client.module.modules.extension.RichPresence;
-import me.offeex.bloomware.client.module.modules.extension.StreamerMode;
-import me.offeex.bloomware.client.module.modules.extension.UnfocusedCPU;
+import me.offeex.bloomware.client.module.modules.extension.*;
 import me.offeex.bloomware.client.module.modules.hud.*;
 import me.offeex.bloomware.client.module.modules.interact.*;
 import me.offeex.bloomware.client.module.modules.motion.*;
@@ -40,7 +37,7 @@ public class ModuleManager {
                 new PlayerModel(), new PvPInfo(), new QueuePicker(), new Server(), new Speedometer(), new TabGUI(), new Target(), new TextRadar(), new Time(), new Tps(), new Watermark(), new Welcomer(), new YawPitch(),
                 new Notifications(), new RichPresence(), new StreamerMode(), new UnfocusedCPU(),
                 new Accounts(), new Colors(), new Font(), new Gui(), new Hud(), new MainMenu(), new Overlay(),
-                new AntiSpam(), new ArmorAlert(), new AutoQueueMain(), new BetterChat(), new BetterTab(), new DeathCoords(), new Restarts2b2t(), new Spammer(), new TotemPopCounter(), new VisualRange()));
+                new AntiSpam(), new ArmorAlert(), new AutoQueueMain(), new BetterChat(), new BetterTab(), new DeathCoords(), new Restarts2b2t(), new Spammer(), new TotemPopCounter(), new VisualRange(), new StopWar()));
     }
 
     @Deprecated
