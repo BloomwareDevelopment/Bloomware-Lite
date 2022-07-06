@@ -37,7 +37,7 @@ public class ModuleManager {
                 new PlayerModel(), new PvPInfo(), new QueuePicker(), new Server(), new Speedometer(), new TabGUI(), new Target(), new TextRadar(), new Time(), new Tps(), new Watermark(), new Welcomer(), new YawPitch(),
                 new Notifications(), new RichPresence(), new StreamerMode(), new UnfocusedCPU(),
                 new Accounts(), new Colors(), new Font(), new Gui(), new Hud(), new MainMenu(), new Overlay(),
-                new AntiSpam(), new ArmorAlert(), new AutoQueueMain(), new BetterChat(), new BetterTab(), new DeathCoords(), new Restarts2b2t(), new Spammer(), new TotemPopCounter(), new VisualRange(), new StopWar()));
+                new AntiSpam(), new ArmorAlert(), new AutoQueueMain(), new BetterChat(), new BetterTab(), new DeathCoords(), new Restarts2b2t(), new Spammer(), new TotemPopCounter(), new VisualRange()));
     }
 
     @Deprecated
