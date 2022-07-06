@@ -1,6 +1,6 @@
 <h1 align="center">Bloomware</h1>
 <div align="center">
-  <img src="https://img.shields.io/github/contributors/TheBreakery/Bloomware" alt="GitHub contributors"/> <img src="https://img.shields.io/github/languages/code-size/TheBreakery/Bloomware" alt="GitHub code size in bytes"/> <img src="https://tokei.rs/b1/github/TheBreakery/Bloomware" alt="GitHub lines of code"/> <img src="https://img.shields.io/github/last-commit/TheBreakery/Bloomware" alt="GitHub last commit"/> <img src="https://img.shields.io/github/downloads/thebreakery/Bloomware/total?style=flat-square" alt="Total downloads"> <a href="https://www.codefactor.io/repository/github/thebreakery/bloomware"><img src="https://www.codefactor.io/repository/github/thebreakery/bloomware/badge" alt="CodeFactor" /></a>
+  <img src="https://img.shields.io/github/contributors/TheBreakery/Bloomware-Lite" alt="GitHub contributors"/> <img src="https://img.shields.io/github/languages/code-size/TheBreakery/Bloomware-Lite" alt="GitHub code size in bytes"/> <img src="https://tokei.rs/b1/github/TheBreakery/Bloomware-Lite" alt="GitHub lines of code"/> <img src="https://img.shields.io/github/last-commit/TheBreakery/Bloomware-Lite" alt="GitHub last commit"/> <img src="https://img.shields.io/github/downloads/thebreakery/Bloomware-Lite/total?style=flat-square" alt="Total downloads"> <a href="https://www.codefactor.io/repository/github/thebreakery/bloomware-lite"><img src="https://www.codefactor.io/repository/github/thebreakery/bloomware-lite/badge" alt="CodeFactor" /></a>
 </div>
 
 # 🛠️ Bloomware
@@ -43,9 +43,9 @@ This is required only for contributors, not for normal users.
 - [**cattyn**](https://github.com/cattyngmd) (code improvements)
 - [**srgantmoomoo**](https://github.com/srgantmoomoo) (client base [bedroom](https://github.com/beach-house-development/bedroom))
 - [**BleachDrinker420**](https://github.com/BleachDrinker420) (some utils from [Bleachhack](https://github.com/BleachDrinker420/BleachHack))
-- **ronmamo** (java lib - Reflections)
-- **johnrengelman** (gradle plugin - ShadowJar)
-- **Fabric Contributors** (for fabric)
+- [**ronmamo**](https://github.com/ronmamo) (java lib - [Reflections](https://github.com/ronmamo/reflections))
+- [**johnrengelman**](https://github.com/johnrengelman) (gradle plugin - [Shadow](https://github.com/johnrengelman/shadow))
+- [**Fabric Contributors**](https://github.com/FabricMC/fabric/graphs/contributors) (for [fabric](https://github.com/FabricMC/fabric))
 - [**0x150**](https://github.com/0x150) (font renderer from [Atomic](https://github.com/0x151/Atomic)) 
 
 ## FAQ
